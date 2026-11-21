@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+data/
+*.csv
+*.txt
+!requirements.txt
+.venv/
+.idea/
+.vscode/
